@@ -1,7 +1,7 @@
 ---
 description: >-
   It takes advantage of the nature of data's unique ability to be parsed from
-  multiple angels.
+  multiple angles.
 ---
 
 # 🗺️ bitmap 101
